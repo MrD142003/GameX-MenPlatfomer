@@ -1,0 +1,1289 @@
+fileFormatVersion: 2
+guid: 7ea40a7b26b37f74baf6959d7536e962
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 258
+        width: 47
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5a7bdc0ad8ad246812e0f6611cb348
+      internalID: 1396832366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 320
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc4c7e5719f62442a039e0fbdddbcd0
+      internalID: 425912460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 321
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcb104d96d85b24fa36ce12844e9a5b
+      internalID: -1753045413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 320
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad690343fca17144a3c39a3de578f7c
+      internalID: 1339278386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 320
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f3dab453de62b4da625111bea48425
+      internalID: -1672978084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 320
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5afd626d4c00df45ab84d21ed08a49e
+      internalID: -836133357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051cec2908bd66b4a973c07f6d974c17
+      internalID: 1884186260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 320
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d97210dccc1f947b8a7c9b9d2670e4
+      internalID: -691131620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_8
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 320
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebe0f9050f7dbf47a812064991e3df5
+      internalID: 243784559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 257
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e08e03623c8dc34389926266d210f97
+      internalID: -703846872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 256
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6225edfae6e549e4c9f0419f56ef6465
+      internalID: -630978551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_11
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 256
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ed8b97a9c0de849af3e381bdb7f737
+      internalID: 1467199144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_12
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 256
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401e5dc32ffd15b45825ae08dce41e96
+      internalID: -1249952190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_13
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 256
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad9b5e8ae2fed04c99927f0547b77a2
+      internalID: -1178892105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_14
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 256
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7809203021ea90b45ae8bdcf43c9c9eb
+      internalID: -1020539548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_15
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 256
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7659eec4604a94f99ed9ffec4a98f8
+      internalID: -2118096817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_16
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 256
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d46bbf3bcd22241b63c1b3fa78b9ad
+      internalID: 1396962396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 192
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63a99287a100b94f8f32fa880dea3b1
+      internalID: -439662142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_18
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 192
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42f01b21db650a4b8ecd5099ed5c3e3
+      internalID: 799687891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_19
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 192
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188d79288d65da94eb74614e24f4e976
+      internalID: 989108961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_20
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 192
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a529e537508a9e4c8cae5b30909f2f7
+      internalID: 456909777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_21
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 192
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c952350eeff22c40a3bbe1e662a133b
+      internalID: 2109724481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_22
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec3c3b127d609648983cc4f1ec91c80
+      internalID: -6840090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_23
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 192
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c88275f3e3e774ab57ac1a8debe3f1
+      internalID: 274782871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_24
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 192
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea17409ff6fdd1e4e93e3d177d144c8f
+      internalID: -767075480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_25
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 192
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecb21e5182fc514e81985d0c0657b63
+      internalID: 43247942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_26
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 128
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d83aacd74ad9c44a252c16a8cbad6f
+      internalID: -992501448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_27
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 128
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecfa036f45e0a945b6172246a2c89b8
+      internalID: -2081478853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_28
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 128
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62fdedc8d5e02a43b44315af3cfa15b
+      internalID: -78715278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_29
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 128
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf0e16a3bc74a44db52209203da3aaa
+      internalID: -1950393171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_30
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 128
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d940df11d4dae43b1c44a1c5d2fcd2
+      internalID: 1306874623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_31
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 128
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aee20173a70b024784c99f1df0e6f9f
+      internalID: -1074540544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_32
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 128
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db998de4d9ed5a47b3a48c0781de102
+      internalID: 1139220275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_33
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 128
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cf374b0d90a8c469b1bb529b5891e9
+      internalID: 829037697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_34
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 128
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6daafa7fb923d5549bbaed5f60df0d1a
+      internalID: -400108706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_35
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 64
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0c01089bfd5ea4aa6662e68f495ec5
+      internalID: -1123127532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_36
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 64
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8be263711dbfd3438a9d626205e9615
+      internalID: -1061628003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_37
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 64
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495979107d296a2448f5c8c0c8c8df85
+      internalID: 1236243099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_38
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 64
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debb2010b016b0f4d8b02f27957971bf
+      internalID: 1573480946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_39
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 64
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90bcdd4d8652174c83f5064d3a43a27
+      internalID: 1674054638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_40
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 64
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d6bec6ed140734b97c7ad65c797c2c
+      internalID: 272934596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_41
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 64
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfac984ba121a84c8ea7fa680ed053f
+      internalID: -125977830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_42
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 64
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc560bd2e0779d440b8f21cda8a0ebe6
+      internalID: 178878808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_43
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 64
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079837beb5a30784db73cfff7b1cff59
+      internalID: 516226333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_44
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b11e541eefbfe48812c87890621079
+      internalID: 481543128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_45
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df58f254dbc61e44a7ac5f24c57a6c6
+      internalID: -498036706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_46
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50b22f4e5c1c9f419c40c3eab169e60
+      internalID: 1807230511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_47
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0b0724d0b836c41b7cf689945d64eb
+      internalID: 405730478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_48
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6b51b3e48b70a49a66fe1ef76476b6
+      internalID: -310777106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_49
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a33726cc00598c47ae72a365f49c8e1
+      internalID: 170470018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_50
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c72179cf272ef41bdd41f96e006a9f
+      internalID: 1343818921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_51
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 0
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827346aa883cf2346ba662c51d37b08c
+      internalID: -925712785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolverine SV Battler - Mask 1_52
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 0
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cdf403b7c8ca745af12bb80822b0c8
+      internalID: 1142804992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Wolverine SV Battler - Mask 1_18: 799687891
+      Wolverine SV Battler - Mask 1_2: -1753045413
+      Wolverine SV Battler - Mask 1_7: -691131620
+      Wolverine SV Battler - Mask 1_40: 272934596
+      Wolverine SV Battler - Mask 1_13: -1178892105
+      Wolverine SV Battler - Mask 1_37: 1236243099
+      Wolverine SV Battler - Mask 1_51: -925712785
+      Wolverine SV Battler - Mask 1_28: -78715278
+      Wolverine SV Battler - Mask 1_16: 1396962396
+      Wolverine SV Battler - Mask 1_24: -767075480
+      Wolverine SV Battler - Mask 1_33: 829037697
+      Wolverine SV Battler - Mask 1_44: 481543128
+      Wolverine SV Battler - Mask 1_10: -630978551
+      Wolverine SV Battler - Mask 1_12: -1249952190
+      Wolverine SV Battler - Mask 1_4: -1672978084
+      Wolverine SV Battler - Mask 1_48: -310777106
+      Wolverine SV Battler - Mask 1_9: -703846872
+      Wolverine SV Battler - Mask 1_17: -439662142
+      Wolverine SV Battler - Mask 1_38: 1573480946
+      Wolverine SV Battler - Mask 1_31: -1074540544
+      Wolverine SV Battler - Mask 1_46: 1807230511
+      Wolverine SV Battler - Mask 1_50: 1343818921
+      Wolverine SV Battler - Mask 1_43: 516226333
+      Wolverine SV Battler - Mask 1_0: 1396832366
+      Wolverine SV Battler - Mask 1_19: 989108961
+      Wolverine SV Battler - Mask 1_22: -6840090
+      Wolverine SV Battler - Mask 1_5: -836133357
+      Wolverine SV Battler - Mask 1_11: 1467199144
+      Wolverine SV Battler - Mask 1_45: -498036706
+      Wolverine SV Battler - Mask 1_47: 405730478
+      Wolverine SV Battler - Mask 1_23: 274782871
+      Wolverine SV Battler - Mask 1_36: -1061628003
+      Wolverine SV Battler - Mask 1_49: 170470018
+      Wolverine SV Battler - Mask 1_3: 1339278386
+      Wolverine SV Battler - Mask 1_29: -1950393171
+      Wolverine SV Battler - Mask 1_34: -400108706
+      Wolverine SV Battler - Mask 1_8: 243784559
+      Wolverine SV Battler - Mask 1_32: 1139220275
+      Wolverine SV Battler - Mask 1_41: -125977830
+      Wolverine SV Battler - Mask 1_21: 2109724481
+      Wolverine SV Battler - Mask 1_25: 43247942
+      Wolverine SV Battler - Mask 1_1: 425912460
+      Wolverine SV Battler - Mask 1_20: 456909777
+      Wolverine SV Battler - Mask 1_39: 1674054638
+      Wolverine SV Battler - Mask 1_6: 1884186260
+      Wolverine SV Battler - Mask 1_30: 1306874623
+      Wolverine SV Battler - Mask 1_42: 178878808
+      Wolverine SV Battler - Mask 1_26: -992501448
+      Wolverine SV Battler - Mask 1_14: -1020539548
+      Wolverine SV Battler - Mask 1_27: -2081478853
+      Wolverine SV Battler - Mask 1_52: 1142804992
+      Wolverine SV Battler - Mask 1_35: -1123127532
+      Wolverine SV Battler - Mask 1_15: -2118096817
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

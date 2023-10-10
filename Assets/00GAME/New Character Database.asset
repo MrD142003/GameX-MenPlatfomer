@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3aaccb37268cda43886475c48c071b9, type: 3}
+  m_Name: New Character Database
+  m_EditorClassIdentifier: 
+  character:
+  - characterName: Wolverine
+    characterSprite: {fileID: -1114941582, guid: 6b239ee0cb798cb4fa8fee6de306bc78, type: 3}
+  - characterName: Cyclop
+    characterSprite: {fileID: -766972306, guid: 6b239ee0cb798cb4fa8fee6de306bc78, type: 3}
+  - characterName: Storm
+    characterSprite: {fileID: 2030035199, guid: 6b239ee0cb798cb4fa8fee6de306bc78, type: 3}
+  - characterName: Jean Grey
+    characterSprite: {fileID: 1577113939, guid: 6b239ee0cb798cb4fa8fee6de306bc78, type: 3}
